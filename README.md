@@ -1,2 +1,2 @@
 # Mobile-checkers
-Simple game of checkers
+A simple game of checkers, my 3rd course course work
